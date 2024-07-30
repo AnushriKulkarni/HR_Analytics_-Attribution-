@@ -34,11 +34,12 @@ Through this project, I have gained valuable insights into improving employee ex
 
 ## Getting Started
 
-I encourage you to explore the E-Commerce Sales Dashboard and provide any suggestions or feedback. If you have ideas for improvements or additional features, feel free to fork the repository and submit a pull request. Your contributions can help enhance the dashboard and make it even more valuable.
-
-Thank you for your interest, and I look forward to collaborating on any enhancements!
+I encourage you to explore the Dashboard and provide any suggestions or feedback. If you have ideas for improvements or additional features, feel free to fork the repository and submit a pull request. Your contributions can help enhance the dashboard and make it even more valuable.
 
 ---
 
-Thank you for checking out my project! 🙌
+Thank you for your interest, and I look forward to collaborating on any enhancements!🙌
+
+
+ 
 
