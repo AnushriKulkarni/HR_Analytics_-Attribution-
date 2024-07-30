@@ -34,9 +34,9 @@ Through this project, I have gained valuable insights into improving employee ex
 
 ## Getting Started
 
-To explore the HR Analytics Dashboard, you can clone this repository and follow the setup instructions provided in the documentation.
+I encourage you to explore the E-Commerce Sales Dashboard and provide any suggestions or feedback. If you have ideas for improvements or additional features, feel free to fork the repository and submit a pull request. Your contributions can help enhance the dashboard and make it even more valuable.
 
-Feel free to reach out if you have any questions or need further details about the project!
+Thank you for your interest, and I look forward to collaborating on any enhancements!
 
 ---
 
